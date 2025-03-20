@@ -23,8 +23,8 @@ const contactLinks = [
   },
   {
     name: 'LinkedIn',
-    value: 'linkedin.com/in/yourusername',
-    href: 'https://linkedin.com/in/yourusername',
+    value: 'linkedin.com/in/staffle',
+    href: 'https://linkedin.com/in/staffle',
     icon: Linkedin
   }
 ];
@@ -40,7 +40,7 @@ const Contact: React.FC = () => {
           style={{ animationDelay: '100ms', animationFillMode: 'forwards' }}
         >
           <p className="text-gray-600 mb-8 text-center">
-            I'm currently open to new opportunities and collaborations. Feel free to reach out!
+            I'm currently open to interesting collaborations. Feel free to reach out!
           </p>
           
           <div className="space-y-6">
